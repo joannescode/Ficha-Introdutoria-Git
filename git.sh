@@ -69,3 +69,9 @@ $ git branch -d "nome da branch"
 
 $ git branch -m "renomea a branch"
 ## COM A FUNÇÃO -M VOCÊ ALTERA O NOME DA BRANCH QUE ESTIVER UTILIZANDO NO MOMENTO ##
+
+---------------------------------------------------------------------------------------------------
+$ git clone https://github.com/user/seu-primeiro-repositorio.git
+## COM O GIT CLONE É POSSIVEL CLONAR TODO O PROJETO SELECIONANDO ATRÁVES DO LINK DO REPOSITÓRIO ##
+$ git clone -b "nome da branch" "url do repositório remoto"
+## COM A FUNÇÃO -b VOCÊ CLONA SOMENTE UMA RAMIFICAÇÃO DO REPOSITÓRIO COMPLETO ##
